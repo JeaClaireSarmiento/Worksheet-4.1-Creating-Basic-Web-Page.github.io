@@ -1,0 +1,105 @@
+/* external stylesheet */
+body{
+    background-image: url("images/bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid #000;
+    padding: 20px;
+  }
+  
+  h1{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#000;
+  }
+  
+  img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid mediumorchid;
+    padding: 4px;
+  }
+  
+  h2{
+    font-family: Arial;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  h2 a{
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    color:mediumorchid;
+  }
+
+  h2:hover{
+    border: 2pxs;
+    background-color: #ccc;
+    border-radius: 8px;
+  }
+  
+  h3{
+    font-size: 20px;
+    font-style: Arial;
+    background: linear-gradient(135deg, rgba(56, 28, 140, 0.5) 0%, rgba(242, 109, 129, 0.5) 100%);
+  }
+  
+  h4{
+    font-size: 18px;
+    font-style: Arial;
+    background: linear-gradient(135deg, rgba(56, 28, 140, 0.5) 0%, rgba(242, 109, 129, 0.5) 100%);
+  }
+
+  p{
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 15px;
+    color: #000;
+  }
+
+  p:hover{
+    border-radius: 10px;
+  }
+
+  hr{
+    border: 1px solid black;
+  }
+  
+  table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-family: Arial;
+    margin-bottom: 50 px;
+  }
+
+  th,td{
+    border: 2px solid black;
+    padding: 4px;
+  }
+  
+  td{
+    padding: 8px;
+    border: 1px solid black;
+  }
+  
+  th{
+    padding: 8px;
+    border: 1px solid black;
+    background: linear-gradient(135deg, rgba(56, 28, 140, 0.5) 0%, rgba(242, 109, 129, 0.5) 100%);
+  }
+
+  ol{
+    text-align: left;
+    color: black;
+    font-family: Arial, sans-serif;
+  }
+
+  
